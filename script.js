@@ -3,7 +3,7 @@ let bod = document.querySelector("body");
 
 bod.addEventListener("mouseenter", function () {
   setTimeout(() => {
-    let s = ["Coffepolis", "No one can understand the truth until he drinks of coffee’s frothy goodness.","Sharing flavours and connecting people on a global spectrum we are Coffeepolis"];
+    let s = ["Coffepolis", "Sharing flavours and connecting people on a global spectrum we are Coffeepolis"];
     let char = 1;
 
     var elem = $("#tio");
